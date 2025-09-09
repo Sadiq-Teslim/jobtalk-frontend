@@ -1,0 +1,271 @@
+[{
+        "id": 1,
+        "title": "Retail Cashier",
+        "company": "Shoprite Nigeria",
+        "location": "Ikeja, Lagos",
+        "type": "Full-time",
+        "description": "Seeking a friendly and efficient cashier to handle customer transactions. Previous retail experience is a plus.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 2,
+        "title": "Remote Customer Service Representative",
+        "company": "Paystack",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Join our world-class support team to help users navigate our payment platform. Excellent communication skills required.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 3,
+        "title": "Junior Frontend Developer",
+        "company": "Cowrywise",
+        "location": "Yaba, Lagos",
+        "type": "Internship",
+        "description": "Work with our engineering team to build and maintain user-facing features. Basic knowledge of React is needed.",
+        "source": "Indeed"
+    },
+    {
+        "id": 4,
+        "title": "Graduate Trainee Engineer",
+        "company": "Dangote Group",
+        "location": "Ibese, Ogun",
+        "type": "Full-time",
+        "description": "We are recruiting young graduates into our engineering trainee program. Strong academic background required.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 5,
+        "title": "UI/UX Designer",
+        "company": "Flutterwave",
+        "location": "Lekki, Lagos",
+        "type": "Full-time",
+        "description": "Design intuitive and visually appealing user experiences for our fintech products. Experience with Figma preferred.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 6,
+        "title": "Warehouse Supervisor",
+        "company": "Jumia Nigeria",
+        "location": "Ikeja, Lagos",
+        "type": "Full-time",
+        "description": "Supervise warehouse staff, manage inventory, and ensure timely delivery of products to customers.",
+        "source": "MyJobMag"
+    },
+    {
+        "id": 7,
+        "title": "Backend Developer",
+        "company": "Kuda Bank",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Join our engineering team to build scalable backend services. Proficiency in Node.js and PostgreSQL required.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 8,
+        "title": "Data Analyst",
+        "company": "Interswitch",
+        "location": "Victoria Island, Lagos",
+        "type": "Full-time",
+        "description": "Analyze business data, create reports, and support decision-making with actionable insights.",
+        "source": "Hot Nigerian Jobs"
+    },
+    {
+        "id": 9,
+        "title": "Sales Associate",
+        "company": "Slot Nigeria",
+        "location": "Surulere, Lagos",
+        "type": "Full-time",
+        "description": "Engage customers, drive sales, and provide after-sales support in our retail electronics store.",
+        "source": "Jobzilla"
+    },
+    {
+        "id": 10,
+        "title": "Administrative Assistant",
+        "company": "University of Lagos",
+        "location": "Akoka, Lagos",
+        "type": "Contract",
+        "description": "Provide clerical and administrative support to the department. Strong organizational skills required.",
+        "source": "UNILAG Careers"
+    },
+    {
+        "id": 11,
+        "title": "Software Engineering Intern",
+        "company": "Andela",
+        "location": "Remote",
+        "type": "Internship",
+        "description": "Learn and contribute to real-world software projects in a remote-first engineering team.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 12,
+        "title": "Marketing Executive",
+        "company": "GTBank",
+        "location": "Victoria Island, Lagos",
+        "type": "Full-time",
+        "description": "Promote bank products and services to potential clients. Experience in sales or marketing is a plus.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 13,
+        "title": "Content Writer",
+        "company": "TechCabal",
+        "location": "Remote",
+        "type": "Part-time",
+        "description": "Research and write high-quality articles on tech and startups in Africa. Strong writing skills required.",
+        "source": "Indeed"
+    },
+    {
+        "id": 14,
+        "title": "HR Assistant",
+        "company": "UBA Group",
+        "location": "Marina, Lagos",
+        "type": "Full-time",
+        "description": "Assist the HR department with recruitment, employee onboarding, and payroll processing.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 15,
+        "title": "Graphic Designer",
+        "company": "Filmhouse Cinemas",
+        "location": "Lekki, Lagos",
+        "type": "Full-time",
+        "description": "Create designs for movie posters, digital campaigns, and promotional content.",
+        "source": "Jobzilla"
+    },
+    {
+        "id": 16,
+        "title": "IT Support Officer",
+        "company": "Access Bank",
+        "location": "Victoria Island, Lagos",
+        "type": "Full-time",
+        "description": "Provide technical support for IT systems and resolve customer IT-related issues.",
+        "source": "Hot Nigerian Jobs"
+    },
+    {
+        "id": 17,
+        "title": "Delivery Rider",
+        "company": "Bolt Food",
+        "location": "Yaba, Lagos",
+        "type": "Full-time",
+        "description": "Deliver food orders to customers promptly. Must own a smartphone and valid rider's license.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 18,
+        "title": "Legal Intern",
+        "company": "Banwo & Ighodalo",
+        "location": "Ikoyi, Lagos",
+        "type": "Internship",
+        "description": "Assist with legal research, drafting documents, and providing support to the firm's partners.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 19,
+        "title": "Finance Analyst",
+        "company": "PwC Nigeria",
+        "location": "Victoria Island, Lagos",
+        "type": "Full-time",
+        "description": "Support clients with financial modeling, data analysis, and reporting.",
+        "source": "MyJobMag"
+    },
+    {
+        "id": 20,
+        "title": "Customer Care Officer",
+        "company": "Airtel Nigeria",
+        "location": "Ibadan, Oyo",
+        "type": "Full-time",
+        "description": "Resolve customer complaints, provide information, and ensure satisfaction with services.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 21,
+        "title": "Frontend Developer",
+        "company": "Hotels.ng",
+        "location": "Yaba, Lagos",
+        "type": "Full-time",
+        "description": "Build and optimize web pages for hotel booking platforms. Knowledge of React is essential.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 22,
+        "title": "Teaching Assistant",
+        "company": "Covenant University",
+        "location": "Ota, Ogun",
+        "type": "Contract",
+        "description": "Assist lecturers with teaching, marking, and tutoring undergraduate students.",
+        "source": "University Careers"
+    },
+    {
+        "id": 23,
+        "title": "Data Entry Clerk",
+        "company": "Nigerian Breweries",
+        "location": "Iganmu, Lagos",
+        "type": "Contract",
+        "description": "Input and verify production and sales data. Attention to detail is crucial.",
+        "source": "Jobzilla"
+    },
+    {
+        "id": 24,
+        "title": "Field Sales Agent",
+        "company": "MTN Nigeria",
+        "location": "Abuja, FCT",
+        "type": "Full-time",
+        "description": "Drive SIM registrations, promote MTN products, and onboard new customers.",
+        "source": "Hot Nigerian Jobs"
+    },
+    {
+        "id": 25,
+        "title": "Product Manager",
+        "company": "Moniepoint",
+        "location": "Remote",
+        "type": "Full-time",
+        "description": "Own the product lifecycle from ideation to delivery. Prior fintech experience is an advantage.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 26,
+        "title": "Call Center Agent",
+        "company": "9mobile",
+        "location": "Marina, Lagos",
+        "type": "Full-time",
+        "description": "Answer inbound calls and assist customers with service-related inquiries.",
+        "source": "Jobberman"
+    },
+    {
+        "id": 27,
+        "title": "Research Assistant",
+        "company": "Nigerian Institute of Medical Research",
+        "location": "Yaba, Lagos",
+        "type": "Contract",
+        "description": "Assist with medical research projects, data collection, and report writing.",
+        "source": "NIMR Careers"
+    },
+    {
+        "id": 28,
+        "title": "Operations Manager",
+        "company": "GIG Logistics",
+        "location": "Ajah, Lagos",
+        "type": "Full-time",
+        "description": "Oversee logistics operations, supervise staff, and ensure customer satisfaction.",
+        "source": "Indeed"
+    },
+    {
+        "id": 29,
+        "title": "Business Development Officer",
+        "company": "Stanbic IBTC Bank",
+        "location": "Victoria Island, Lagos",
+        "type": "Full-time",
+        "description": "Develop client relationships, identify opportunities, and drive revenue growth.",
+        "source": "LinkedIn"
+    },
+    {
+        "id": 30,
+        "title": "Social Media Manager",
+        "company": "Zikoko",
+        "location": "Remote",
+        "type": "Part-time",
+        "description": "Manage social media pages, engage the audience, and drive online growth with creative content.",
+        "source": "Jobberman"
+    }
+]
